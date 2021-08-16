@@ -4,7 +4,7 @@ Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) with nod
 
 Work on your code iteratively – that means in small pieces.
 
-Here I show the use of the `hungry` and `availableTime` parameters inside my function, try outputting their values to the Terminal for testing.
+Here I show the use of the `hungry` and `availableTime` parameters inside the function, try out putting values to the Terminal for testing.
 
 ``` javascript
 const whatToDoForLunch = function(hungry, availableTime) {
