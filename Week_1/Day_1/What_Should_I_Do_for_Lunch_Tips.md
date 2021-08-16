@@ -1,10 +1,10 @@
 ### Tips
 
-Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the node REPL, which you can launch using the `node` command in Vagrant.
+Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) with node, which you can launch using the `node` command in Vagrant or directly in your M1 (like me!).
 
-Work on your code iteratively – that means in small pieces. 
+Work on your code iteratively – that means in small pieces.
 
-To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
+Here I show the use of the `hungry` and `availableTime` parameters inside my function, try outputting their values to the Terminal for testing.
 
 ``` javascript
 const whatToDoForLunch = function(hungry, availableTime) {
